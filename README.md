@@ -23,7 +23,7 @@ permit and the software donor will have 100% priority for use).
 
 We use WebRTC or other Real Time Communication and export virtual screens to users 
 with the applications they need. They have all their work as encrypted backup on 
-their hardware and they can schedule the need of the applications. The administration
+their hardware and they can schedule the need for the applications. The administration
 of resources available are in hands of the software owners and they can retreive the
 licenses any time but this way they lose acces to the others software.
 So is free for use if you contribute legaly to the shared resources. 
